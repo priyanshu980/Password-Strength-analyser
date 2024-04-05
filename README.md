@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Password Strength Checker</h1>
+    <h1>Password Strength Analyser</h1>
     <p>Welcome to the Password Strength Checker project!</p>
     <p>This project is designed to help users evaluate the strength of their passwords based on various criteria, including length, character variety, and patterns.</p>
     <p>To use the password strength checker, simply enter your desired password and click the "Check Strength" button. The checker will then analyze your password and provide a strength rating.</p>
